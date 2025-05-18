@@ -4,7 +4,7 @@ Este é o meu primeiro site criado com **HTML**, **CSS** e **JavaScript**, que r
 
 ## 🖼️ Interface
 
-! Interface do site  <img src="https://github.com/otaviotyska/Converter-Moedas/blob/main/assets/converter.png?raw=true" ><!-- Altere para o nome correto da imagem no seu repositório -->
+  <img  src="https://github.com/otaviotyska/Converter-Moedas/blob/main/assets/converter.png?raw=true" ><!-- Altere para o nome correto da imagem no seu repositório -->
 
 ## 🔧 Tecnologias usadas
 
