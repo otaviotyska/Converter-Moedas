@@ -4,7 +4,7 @@ Este é o meu primeiro site criado com **HTML**, **CSS** e **JavaScript**, que r
 
 ## 🖼️ Interface
 
-![Interface do site]( src ./assets/.converter.png) <!-- Altere para o nome correto da imagem no seu repositório -->
+![Interface do site]  img src ./assets/.converter.png <!-- Altere para o nome correto da imagem no seu repositório -->
 
 ## 🔧 Tecnologias usadas
 
