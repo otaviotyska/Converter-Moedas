@@ -8,10 +8,10 @@ Este é o meu primeiro site criado com **HTML**, **CSS** e **JavaScript**, que r
 
 ## 🔧 Tecnologias usadas
 
-- HTML5
-- CSS3
-- JavaScript (puro)
-
+- HTML
+- CSS
+- JavaScript
+  
 ## ⚙️ Funcionalidades
 
 - Entrada do valor em R$
